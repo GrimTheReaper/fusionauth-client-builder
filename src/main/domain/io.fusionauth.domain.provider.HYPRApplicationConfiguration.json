@@ -15,6 +15,9 @@
     "licensingEnabled" : {
       "type" : "boolean"
     },
+    "licensingEnabledOverride" : {
+      "type" : "boolean"
+    },
     "licensingURL" : {
       "type" : "URI"
     },
